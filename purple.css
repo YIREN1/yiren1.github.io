@@ -1,6 +1,6 @@
 :root{
 	--mainColor:#46344E;
-	--secondaryColor:#382a3f;
+	--secondaryColor:#56256e;
 
 	--borderColor:#1d1520;
 
@@ -15,5 +15,5 @@
 
 	--buttonColor:#8534a3;
 
-
+	--mainGradient: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);;
 }
